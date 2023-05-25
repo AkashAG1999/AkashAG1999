@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning from youtube tutorials
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ?
-- 
 
 <!---
 AkashAG1999/AkashAG1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
